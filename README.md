@@ -5,7 +5,7 @@ Face recognition app is developed to train and test the AI model on face recogni
 Node.js as a backend tool and NPM Face Recognition as a face recognition library.
 
 # Model Performance
-After training the model using 13233 images of 5749 people, model performance is tested. On 6000 different cases, of different images of same person (expected a "match") or different people (expected a "mismatch"), models performance result is **%98.6166** success. 
+After training the model using 13233 images of 5749 people, model performance is tested. On 6000 different cases, of different images of same person (expected a "match") or different people (expected a "mismatch"), models performance result is **%98.62** success. 
 
 # Developers
 [@hatakancicek]( https://github.com/hatakancicek ) 
