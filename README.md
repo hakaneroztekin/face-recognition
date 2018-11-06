@@ -10,4 +10,4 @@ After training the model using approximately 13000 images of 6000 people, model 
 # Developers
 [@hatakancicek]( https://github.com/hatakancicek ) 
 [@furkan1080]( https://github.com/furkan1080 ) 
-[@hakaneroztekin]( https://github.com/furkan1080 ) 
+[@hakaneroztekin]( https://github.com/hakaneroztekin ) 
