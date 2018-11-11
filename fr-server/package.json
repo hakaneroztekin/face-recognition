@@ -1,0 +1,19 @@
+{
+  "name": "fr-server",
+  "version": "1.0.0",
+  "description": "Back-end for face-recognition.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "nodemon src/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "face-recognition": "^0.9.3",
+    "opencv4nodejs": "^4.10.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.6"
+  }
+}
